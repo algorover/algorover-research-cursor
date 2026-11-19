@@ -1,0 +1,12 @@
+{
+  "name": "algorover-research",
+  "displayName": "AlgoRover Research",
+  "version": "0.1.5",
+  "description": "Strategy discovery and reproducible historical backtests with AlgoRover Research.",
+  "author": {"name": "Rivendell Holdings Investment Limited"},
+  "homepage": "https://research.algorover.ai/",
+  "logo": "icon.png",
+  "skills": "./algorover-research-cloud/skills/",
+  "mcpServers": "./mcp.json",
+  "keywords": ["research", "backtesting", "strategies", "mcp"]
+}
